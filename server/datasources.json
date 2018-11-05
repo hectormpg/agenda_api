@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mlab": {
+    "host": "ds027819.mlab.com",
+    "port": 27819,
+    "url": "mongodb://agenda_user:cocao23@ds027819.mlab.com:27819/agenda_db",
+    "database": "agenda_db",
+    "password": "cocao23",
+    "name": "mlab",
+    "user": "agenda_user",
+    "connector": "mongodb"
+  }
+}
